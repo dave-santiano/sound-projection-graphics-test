@@ -1,0 +1,4 @@
+ofxFft
+ofxOpenCv
+ofxSvg
+ofxVectorGraphics
